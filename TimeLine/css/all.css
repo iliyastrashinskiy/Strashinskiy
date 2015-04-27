@@ -1,10 +1,6 @@
-#wrapper {
-	background-image: url(../images/bgr-wrapper.jpg);
-	width: 1600px;
-	min-height: 1306px;
-	background-color: #7D7D7D;
-	background-repeat: no-repeat;
-	margin: 0 auto;	
+body {
+	background:#7D7D7D url(../images/bgr-wrapper.jpg) 50% 0 no-repeat;
+	min-width:900px;
 }
 
 #main {
